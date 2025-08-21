@@ -6,5 +6,26 @@ body {
 }
 
 
-
- 
+.caixa{
+  width: 50px;
+  height: 50px;
+  background-color: #b9f;
+  border: 2px solid black;
+}
+.zona {
+  float: left;
+  margin-right: 2em;
+  margin-top: 2em;
+  border: thick dashed;
+  width: 100px;
+  height: 100px;
+}
+.zona-over{
+  opacity: 0.5;
+}
+.red{
+  border-color: #f33;
+}
+.blue{
+  border-color: #33f;
+}
